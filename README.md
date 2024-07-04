@@ -27,6 +27,6 @@ You can start developing by editing the files inside the **app** directory. This
 ## Sreenshots
 
 
-![Screenshot 1](https://github.com/tphuc/omisecards/screenshot1.png)
-![Screenshot 2](https://github.com/tphuc/omisecards/screenshot2.png)
-![Screenshot 3](https://github.com/tphuc/omisecards/screenshot3.png)
+![Screenshot 1](https://github.com/tphuc/omisecards/blob/master/screenshot1.png)
+![Screenshot 2](https://github.com/tphuc/omisecards/blob/master/screenshot2.png)
+![Screenshot 3](https://github.com/tphuc/omisecards/blob/master/screenshot3.png)
